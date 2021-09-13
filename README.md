@@ -12,4 +12,4 @@ go run greet_client/client.go
 2. Server Streaming
 3. Client Streaming
 4. Bidirectional Streaming
-5. Unart Streaming with deadline
+5. Unary Streaming with deadline
